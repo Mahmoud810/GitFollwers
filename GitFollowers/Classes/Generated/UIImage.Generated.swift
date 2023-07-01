@@ -10,6 +10,10 @@ extension UIImage {
       UIImage(named: "AccentColor")! 
     }
 
+    static var avatar : UIImage {
+      UIImage(named: "Avatar")! 
+    }
+
     static var icon : UIImage {
       UIImage(named: "Icon")! 
     }

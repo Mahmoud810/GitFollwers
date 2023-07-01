@@ -23,15 +23,31 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "81BC78D3-EB3C-40F8-851C-179ADA47499B"
+            uuid = "47FF252E-6316-4165-8BE3-1020E7519A43"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "GitFollowers/Classes/Modules/SearchViewController/SearchViewController.swift"
+            filePath = "GitFollowers/Classes/CustomViews/GFAlertViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "configContainerView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81E09E5B-DEC8-47D3-B1DC-9B7609398EFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/CustomViews/GFAlertViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -39,16 +55,1505 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3630A551-98FA-4FEF-B8D4-5E2E906EC2F6"
+            uuid = "A62F8BF2-352C-411F-86F7-EE6F6916A601"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "GitFollowers/Classes/Modules/SearchViewController/SearchViewController.swift"
+            filePath = "GitFollowers/Classes/CustomViews/GFAlertViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
             landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D2E6A6C-27D7-48E3-82C3-4326028F885A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/CustomViews/GFAlertViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 8f5da91f326aa327"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 79efd46d0f794124"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - b9f84f3b94b36721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - e8b496bb28d7f685"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 8f5da91f326aa308"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 8f5da91f326aa327"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 79efd46d0f794124"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - b9f84f3b94b3666b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - e8b496bb28d7f7cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 8f5da91f326aa26d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 79efd46d0f79406e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 79efd46d0f79406e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "121">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - b9f84f3b94b36648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - e8b496bb28d7f7ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 8f5da91f326aa24e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "E97FB969-B996-4DB9-9D50-268D48066A8E - 79efd46d0f79404d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - a7ebe54e0b9d41a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - edb2ccb897ec1246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - 4b1db922717485a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - 4b1db922717485a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - a7ebe54e0b9d4241"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - edb2ccb897ec11a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "5D2D4D75-3792-4241-A82B-F1DB8E84BABE - 4b1db92271748643"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GitFollowers.FollwerListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 8f5da91f326aa308"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 79efd46d0f79410b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 8f5da91f326aa24e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 79efd46d0f79404d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 8f5da91f326aa24e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 79efd46d0f79404d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "209">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 8f5da91f326aa22f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "91FF78DE-C745-40FE-AB9E-9CAF13787446 - 79efd46d0f79402c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "209">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43E3C8EE-5366-43D6-B391-260297B5F688"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Services/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E3ADA23-B039-4C47-BD39-CB3C94D398BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Services/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1261A660-120B-466D-8EA8-392C56237EF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1261A660-120B-466D-8EA8-392C56237EF4 - 8f5da91f326aa2d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "462">
+               </Location>
+               <Location
+                  uuid = "1261A660-120B-466D-8EA8-392C56237EF4 - 79efd46d0f7940d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "438">
+               </Location>
+               <Location
+                  uuid = "1261A660-120B-466D-8EA8-392C56237EF4 - 8f5da91f326aa2d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "1261A660-120B-466D-8EA8-392C56237EF4 - 79efd46d0f7940d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "1261A660-120B-466D-8EA8-392C56237EF4 - 8f5da91f326aa2b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "1261A660-120B-466D-8EA8-392C56237EF4 - 79efd46d0f7940b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093 - 8f5da91f326aa2b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093 - 79efd46d0f7940b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "809">
+               </Location>
+               <Location
+                  uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093 - 8f5da91f326aa2b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "474">
+               </Location>
+               <Location
+                  uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093 - 79efd46d0f7940b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "457">
+               </Location>
+               <Location
+                  uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093 - 8f5da91f326aa293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "474">
+               </Location>
+               <Location
+                  uuid = "E1B0E310-0BC6-4251-B44F-71486E8AC093 - 79efd46d0f794090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "457">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 8f5da91f326aa293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 79efd46d0f794090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "849">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 8f5da91f326aa293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 79efd46d0f794090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 8f5da91f326aa293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 79efd46d0f794090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 8f5da91f326aa174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "7708B09B-8076-43CD-9D6D-C256A8DE925D - 79efd46d0f794377"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 8f5da91f326aa155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 79efd46d0f794356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "910">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 8f5da91f326aa155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "905">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 79efd46d0f794356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "874">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 8f5da91f326aa155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "893">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 79efd46d0f794356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "862">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 8f5da91f326aa136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "893">
+               </Location>
+               <Location
+                  uuid = "5FE78D4F-44DF-4864-8A40-C6CA40CCFCC5 - 79efd46d0f794335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "862">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80E86166-394D-4501-8771-781D7FCF9558"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 8f5da91f326aa174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 79efd46d0f794377"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "874">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 8f5da91f326aa155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "905">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 79efd46d0f794356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "874">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 8f5da91f326aa155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "893">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 79efd46d0f794356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "862">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 8f5da91f326aa136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "893">
+               </Location>
+               <Location
+                  uuid = "80E86166-394D-4501-8771-781D7FCF9558 - 79efd46d0f794335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "862">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 8f5da91f326aa136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1097">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 79efd46d0f794335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1062">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 8f5da91f326aa136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "941">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 79efd46d0f794335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "910">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 8f5da91f326aa136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "929">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 79efd46d0f794335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "898">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 8f5da91f326aa117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "929">
+               </Location>
+               <Location
+                  uuid = "8589475A-E4C7-4364-B1FC-E270C4F8A593 - 79efd46d0f794314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "898">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38C76671-A324-4481-A1BE-8C10EE96B715"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getFollowers(for:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 8f5da91f326aa1f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "549">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 79efd46d0f7943fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "517">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 8f5da91f326aa117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1090">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 79efd46d0f794314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1062">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 8f5da91f326aa117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1078">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 79efd46d0f794314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1050">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 8f5da91f326aa1f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1078">
+               </Location>
+               <Location
+                  uuid = "38C76671-A324-4481-A1BE-8C10EE96B715 - 79efd46d0f7943fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GitFollowers.FollwerListVC.getFollowers(for: Swift.String, page: Swift.Int) async -&gt; ()"
+                  moduleName = "GitFollowers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoud/Documents/GitFollowers/GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1050">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D09ECE70-BF13-4FD5-835E-62BCC2F227D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitFollowers/Classes/Modules/FollwerListViewController/FollwerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "scrollViewDidEndDragging(_:willDecelerate:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

@@ -16,13 +16,13 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func createSearch() -> UINavigationController {
-        let searchVC = SearchViewController()
+        let searchVC = SearchVC()
         searchVC.title = "Search"
         searchVC.tabBarItem = UITabBarItem(tabBarSystemItem: .search, tag: 0)
         return UINavigationController(rootViewController: searchVC)
     }
     func createFavourite() -> UINavigationController {
-        let favouriteVC = FaviourateViewController()
+        let favouriteVC = FaviourateVC()
         favouriteVC.title = "Favourite"
         favouriteVC.tabBarItem = UITabBarItem(tabBarSystemItem: .favorites, tag: 1)
         return UINavigationController(rootViewController: favouriteVC)

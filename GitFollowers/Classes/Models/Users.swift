@@ -6,7 +6,7 @@
 //
 
 // MARK: - WelcomeElement
-struct Users: Codable {
+struct Users: Codable, Hashable {
     let login: String
     let id: Int
     let nodeID: String
@@ -45,4 +45,4 @@ enum TypeEnum: String, Codable {
     case user = "User"
 }
 
-// typealias users = [Users]
+typealias Followers = [Users]

@@ -7,11 +7,11 @@
 
 import UIKit
 
-class FaviourateViewController: UIViewController {
+class FaviourateVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = .white
+        self.view.backgroundColor = .systemBackground
 
         // Do any additional setup after loading the view.
     }
